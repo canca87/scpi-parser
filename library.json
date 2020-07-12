@@ -1,0 +1,7 @@
+{
+    "name": "scpi-parser",
+    "version": "0.0.0",
+    "build": {
+        "includeDir": "libscpi/inc"
+    }
+}
